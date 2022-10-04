@@ -68,7 +68,7 @@ $data = mysqli_fetch_array($sql);
 
 				<a href="dashboard.php" class="logo">
 					<!-- <img src="../assets/img/mts.png" alt="navbar brand" class="navbar-brand" width="40"> -->
-					<b class="text-white">SMP Negeri 3 Tj.Pura</b>
+					<b class="text-white">SMP NEGERI 3 TJ.PURA</b>
 				</a>
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon">
