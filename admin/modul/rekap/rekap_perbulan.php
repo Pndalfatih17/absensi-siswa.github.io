@@ -9,7 +9,7 @@ INNER JOIN tb_mkelas ON tb_mengajar.id_mkelas=tb_mkelas.id_mkelas
 
 INNER JOIN tb_semester ON tb_mengajar.id_semester=tb_semester.id_semester
 INNER JOIN tb_thajaran ON tb_mengajar.id_thajaran=tb_thajaran.id_thajaran
-WHERE tb_mengajar.id_mengajar='$_GET[pelajaran]' AND tb_mengajar.id_mkelas='$_GET[kelas]'  AND tb_thajaran.status=1 AND tb_semester.status=1 ");
+WHERE tb_mengajar.id_mengajar='$_GET[pelajaran]' AND tb_mengajar.id_mkelas='$_GET[kelas]'  AND tb_thajaran.status=1");
 
 foreach ($kelasMengajar as $d) 
 
@@ -47,21 +47,21 @@ foreach ($walikelas as $walas)
 <table width="100%">
  	<tr>
  		<td>
- 			<img src="../assets/img/mts.png" width="130">
+ 			<img src="../assets/img/tut.png" width="130">
  		</td>
  		<td>
  			
  				
  				<h1>
  					ABSESNSI SISWA <br>
- 					<small> MTs INSAN KREASI</small>
+ 					<small> SMP NEGERI 3 TJ.PURA</small>
  				</h1>
- 		<!-- 		<hr>
+ 		 		<hr>
  				<em>
- 					Jl. Parung Panjang - Tenjo RT 01 / RW 07, Batok, Tenjo, Batok, Kec. Tenjo,<br> Kota Bogor, Jawa Barat, Kode Pos (16370) <br>
- 				<b>Email : mtsinsanikreasi@gmail.com Telp.081234567890</b> 
+				 Jln.terusan No.148 Tanjung Pura <br> Kec. Tanjung Pura Kab. Langkat Kode Pos 20853 <br>
+ 				<b>Email : smpn3tanjungpura@gmail.com Telp.081222333444</b> 
  				</em>
- 	 -->
+ 	 
  			
  		</td>
  		<td>
