@@ -53,12 +53,12 @@ $tglTerakhir = date('t',strtotime($tglBulan));
  				
  				<h1>
  					ABSESNSI SISWA <br>
- 					<small> MTs NEGERI 1 AGAM</small>
+ 					<small> SMP NEGERI 3 TJ.PURA</small>
  				</h1>
  				<hr>
  				<em>
- 					Jl.Bukit Bunian Jorong Bukareh Kenagarian Koto Tangah Kecamatan Tilatang,<br> Kamang Kabupaten Agam, Provinsi Sumatera Barat, Kode Pos (26152) <br>
- 				<b>Email : mtsnbukitbunianbukareh@yahoo.com Telp.081266005679</b> 
+				 Jln.terusan No.148 Tanjung Pura <br> Kec. Tanjung Pura Kab. Langkat Kode Pos 20853 <br>
+ 				<b>Email : smpn3tanjungpura@gmail.com Telp.081222333444</b> 
  				</em>
  	
  			</center>
